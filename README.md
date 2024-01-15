@@ -1,2 +1,28 @@
-# LinkedIN-Automation-Manager-Finder-Pinger
-This project leverages Selenium and Python to automate LinkedIn outreach. The script identifies managers of a specified company, navigates to their profiles, and sends personalized messages for potential opportunities. With a well-organized framework, clean XPaths, and modular functions, it streamlines the networking process.
+# Automated LinkedIn Outreach: Manager Finder & Pinger
+
+## Overview
+
+This Python project automates LinkedIn outreach by identifying managers of a desired company, accessing their profiles, and sending personalized messages. The script utilizes Selenium for web automation, ensuring a streamlined and efficient networking process.
+
+## Features
+
+- **Manager Finder:** Automatically locates managers of the specified company.
+- **Profile Access:** Navigates to manager profiles for personalized interactions.
+- **Pinger Functionality:** Sends tailored messages to managers for potential opportunities.
+
+## Setup
+
+1. **Dependencies:**
+   - Ensure you have Python installed.
+   - Install required packages: `pip install -r requirements.txt`
+
+2. **Configuration:**
+   - Open `config.py` and set your LinkedIn credentials.
+   - Customize company name and message templates in the script.
+
+## Usage
+
+Run the script:
+
+```bash
+python main.py
