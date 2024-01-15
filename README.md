@@ -18,7 +18,7 @@ This Python project automates LinkedIn outreach by identifying managers of a des
 
 2. **Configuration:**
    - Open `config.py` and set your LinkedIn credentials.
-   - Customize company name and message templates in the script.
+   - Set company name and message templates in the config script as well!
 
 ## Usage
 
